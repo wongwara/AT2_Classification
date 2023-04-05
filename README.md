@@ -3,13 +3,14 @@ working on a binary classification problem.
 You will have to build a model that can predict if an existing customer is more likely to buy a new car.
 The results of your model can be used for targeting leads for a marketing campaign. <br>
 
+
 ## Submission Requirements: 
 Python code as Jupyter Notebooks (at least 5)
 Experiment reports (at least 5)
 A final report reflecting on the project, its experiments and their outcome. The report should not exceed 1500 words.
 All assignments need to be submitted before the due date on Canvas. Penalties will be applied for late submission.
 
-***
+
 ## Assessment Criteria:
 
 Soundness of justification for selected technique
@@ -18,8 +19,10 @@ Accuracy of results and evidence supporting claims
 Breadth of evidence of collaborative work (e.g. meeting minutes, details of contributions etc) 
 Criticality and specificity in evaluating assumptions and potential ethical issues 
 Appropriateness of communication style to audience
-Dataset:
+
+## Dataset:
 Dataset can be downloaded https://drive.google.com/file/d/177p-Vaa2__BtaxNCmd4YGBv7zfENUNmy/view?usp=sharing Links to an external site.
+
 
 ## Data Dictionary:
 ID: Unique ID of the customer
