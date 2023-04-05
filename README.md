@@ -1,8 +1,9 @@
 # AT2_Classification
 working on a binary classification problem. 
-You will have to build a model that can predict if an existing customer is more likely to buy a new car. <br>
+You will have to build a model that can predict if an existing customer is more likely to buy a new car.
 The results of your model can be used for targeting leads for a marketing campaign. <br>
-Submission Requirements: 
+
+## Submission Requirements: 
 Python code as Jupyter Notebooks (at least 5)
 Experiment reports (at least 5)
 A final report reflecting on the project, its experiments and their outcome. The report should not exceed 1500 words.
